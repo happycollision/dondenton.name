@@ -1,0 +1,20 @@
+{
+  "name": "dondenton.name",
+  "version": "0.0.0",
+  "homepage": "https://github.com/happycollision/dondenton.name",
+  "authors": [
+    "Don Denton <don@happycollision.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "fitvids": "~1.1.0"
+  }
+}
