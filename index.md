@@ -18,5 +18,7 @@ I decided to renew this domain simply because she was pleasant and fun to talk t
 
 ## What does this mean?
 
-GoDaddy gets me for another year. Just thought I'd share.
+GoDaddy gets me for another year and April gets what is hopefully a nice surprise on Valentine's Day. Thanks, April.
+
+Just thought I'd share.
 
